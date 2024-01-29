@@ -1,0 +1,7 @@
+.mapboxgl-ctrl-group {
+    margin-top: 400px;
+    margin-left: 10px;
+}
+.mapboxgl-ctrl-group .mapbox-gl-draw_ctrl-draw-btn {
+    padding: 18px;
+}
